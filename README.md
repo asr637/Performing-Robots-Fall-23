@@ -14,3 +14,4 @@ violence with technology just like warfare materials do.
 
 Journal Entry: Robot Construction Updates (Images)
 
+Journal Entry: [Story with Motion](https://drive.google.com/file/d/1wPHSB10Bv_8FZnjBgpi8fW67YAzmlqHU/view)
