@@ -10,3 +10,7 @@ robotic artworks that were self destructing by using fire as the main focus. Fir
 nature of the robotic art landscape and by extension also the human tendency to self destruct. The sounds of the fire mechanism amplified 
 to glorify the horrifying rage of the flamethrowers. It also commentates on the use of technology in warefare, and combines fossil fuel 
 violence with technology just like warfare materials do. 
+
+
+Journal Entry: Robot Construction Updates (Images)
+
