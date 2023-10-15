@@ -15,3 +15,6 @@ violence with technology just like warfare materials do.
 Journal Entry: Robot Construction Updates (Images)
 
 Journal Entry: [Story with Motion](https://drive.google.com/file/d/1wPHSB10Bv_8FZnjBgpi8fW67YAzmlqHU/view)
+
+
+Journal Entry: [7 Deadly Sins](https://docs.google.com/document/d/1kZbcnuHu6Eql3hjD4kyg9mCCOWyFuonoEqD5UdsbfOc/edit)
