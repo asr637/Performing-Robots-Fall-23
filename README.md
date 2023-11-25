@@ -12,7 +12,7 @@ to glorify the horrifying rage of the flamethrowers. It also commentates on the 
 violence with technology just like warfare materials do. 
 
 
-Journal Entry: Robot Construction Updates (Images)
+Journal Entry: Robot Construction Updates (Images uploaded as files)
 
 Journal Entry: [Story with Motion](https://drive.google.com/file/d/1wPHSB10Bv_8FZnjBgpi8fW67YAzmlqHU/view)
 
