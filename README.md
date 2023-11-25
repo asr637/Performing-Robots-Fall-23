@@ -18,3 +18,6 @@ Journal Entry: [Story with Motion](https://drive.google.com/file/d/1wPHSB10Bv_8F
 
 
 Journal Entry: [7 Deadly Sins](https://docs.google.com/document/d/1kZbcnuHu6Eql3hjD4kyg9mCCOWyFuonoEqD5UdsbfOc/edit)
+
+
+Journal Entry: [NeoPixel Matrix and Music](https://drive.google.com/file/d/19--n80xTQql74O_p8xs4y0bZ05h1o6aL/view?usp=sharing)
