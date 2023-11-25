@@ -21,3 +21,5 @@ Journal Entry: [7 Deadly Sins](https://docs.google.com/document/d/1kZbcnuHu6Eql3
 
 
 Journal Entry: [NeoPixel Matrix and Music](https://drive.google.com/file/d/19--n80xTQql74O_p8xs4y0bZ05h1o6aL/view?usp=sharing)
+
+Journal Entry: [My Remote Image](https://drive.google.com/file/d/1bxdhNJhurWhPoXb5SGH3PIJqzy9NcCZG/view?usp=sharing)
