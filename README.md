@@ -24,3 +24,5 @@ Journal Entry: [NeoPixel Matrix and Music](https://drive.google.com/file/d/19--n
 
 Journal Entry: We came up with a new personality for our robot which was along the lines of a lego bot since it's a family friendly
 [Andy](https://drive.google.com/file/d/1bxdhNJhurWhPoXb5SGH3PIJqzy9NcCZG/view?usp=sharing).
+
+Journal Entry 12th Dec: Worked on the base movement code to reduce the speed and make the turns smoother so the robot is more stable and makes less sound when [moving around](https://drive.google.com/file/d/1DmAxiMu7VCrjB3v2-T4qKomCC4qvR7Ml/view?usp=sharing). 
