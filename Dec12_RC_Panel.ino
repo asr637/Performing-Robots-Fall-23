@@ -444,9 +444,10 @@ void flashNeoPixels() {
 
 
 int heart[] = { 9, 10, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 41, 42, 43, 44, 45, 46, 50, 51, 52, 53, 59, 60, 73, 74, 77, 78, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 105, 106, 107, 108, 109, 110, 114, 115, 116, 117, 123, 124 };
+int heartnegative[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 15, 40, 47, 48, 49, 54, 55, 56, 57, 58, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 75, 76, 79, 104, 111, 112, 113, 118, 119, 120, 121, 122, 125, 126, 127, 128};
 int standard[] = { 10, 11, 12, 13, 17, 22, 28, 35, 37, 43, 44, 45, 52, 74, 75, 76, 77, 81, 86, 91, 98, 100, 106, 107, 108, 115 };
 int electric[] = { 4, 5, 11, 12, 18, 19, 25, 26, 27, 28, 29, 30, 33, 34, 35, 36, 37, 38, 44, 45, 51, 52, 58, 59, 68, 69, 75, 76, 82, 83, 89, 90, 91, 92, 93, 94, 97, 98, 99, 100, 101, 102, 108, 109, 115, 116, 122, 123 };
-int lego[] = { 9, 13, 14, 15, 17, 21, 25, 29, 33, 37, 38, 39, 41, 46, 49, 53, 57, 58, 59, 61, 62, 63,72, 73, 74, 76, 77, 78, 80, 84, 86, 88, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 113, 114, 116, 117, 118};
+int lego[] = { 9, 13, 14, 15, 17, 21, 25, 29, 33, 37, 38, 39, 41, 45, 49, 50, 51, 53, 54, 55, 72, 73, 74, 76, 77, 78, 80, 84, 86, 88, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 113, 114, 116, 117, 118};
 int sad[] =  {2, 3, 10, 11, 12, 20, 21, 29, 30, 37, 38, 44, 45, 50, 51, 52, 58, 59, 68, 69, 75, 76, 77, 82, 83, 89, 90, 97, 98, 106, 107, 115, 116, 117, 124, 125};
 
 void loop() {
@@ -582,7 +583,7 @@ void loop() {
       matrix.clear();
 
         for (int i = 0; i < sizeof(heart) / sizeof(heart[0]); i++) {  // For each pixel...
-          matrix.setPixelColor(heart[i], 255, 0, 0);     // draw electric eyes symbol
+          matrix.setPixelColor(heart[i], 255, 0, 0);     // draw heart eyes symbol
         }
         matrix.show();
 
@@ -598,7 +599,7 @@ void loop() {
       matrix.clear();
 
         for (int i = 0; i < sizeof(standard) / sizeof(standard[0]); i++) {  // For each pixel...
-          matrix.setPixelColor(standard[i], 0, 255, 0);     // draw electric eyes symbol
+          matrix.setPixelColor(standard[i], 0, 0, 255);     // draw standard eyes symbol
         }
         matrix.show();
 
@@ -610,7 +611,7 @@ void loop() {
       matrix.clear();
 
         for (int i = 0; i < sizeof(lego) / sizeof(lego[0]); i++) {  // For each pixel...
-          matrix.setPixelColor(lego[i], matrix.Color(0, 255, 0));     // draw electric eyes symbol
+          matrix.setPixelColor(lego[i], 255, 0, 255);     // draw lego eyes symbol
         }
         matrix.show();
 
@@ -626,7 +627,7 @@ void loop() {
       matrix.clear();
 
         for (int i = 0; i < sizeof(electric) / sizeof(electric[0]); i++) {  // For each pixel...
-          matrix.setPixelColor(electric[i], matrix.Color(0, 255, 0));     // draw electric eyes symbol
+          matrix.setPixelColor(electric[i], 255, 255, 0);     // draw electric eyes symbol
         }
         matrix.show();
 
@@ -642,7 +643,7 @@ void loop() {
       matrix.clear();
 
         for (int i = 0; i < sizeof(sad) / sizeof(sad[0]); i++) {  // For each pixel...
-          matrix.setPixelColor(sad[i], matrix.Color(0, 255, 0));     // draw electric eyes symbol
+          matrix.setPixelColor(sad[i], 128, 0, 0);     // draw sad eyes symbol
         }
         matrix.show();
 
@@ -654,8 +655,13 @@ void loop() {
       matrix.clear();
 
         for (int i = 0; i < sizeof(heart) / sizeof(heart[0]); i++) {  // For each pixel...
-          matrix.setPixelColor(heart[i], 255, 0, 0);     // draw electric eyes symbol
+          matrix.setPixelColor(heart[i], 255, 0, 0);     // draw heart eyes symbol
         }
+        
+
+        // for (int i = 0; i < sizeof(heartnegative) / sizeof(heartnegative[0]); i++) {  // For each pixel...
+        //   matrix.setPixelColor(heartnegative[i], 11, 11, 69);     // draw heart eyes symbol
+        // }
         matrix.show();
 
       break;
@@ -674,7 +680,7 @@ void loop() {
       matrix.clear();
 
         for (int i = 0; i < sizeof(lego) / sizeof(lego[0]); i++) {  // For each pixel...
-          matrix.setPixelColor(lego[i], 255, 0, 255);     // draw electric eyes symbol
+          matrix.setPixelColor(lego[i], 255, 0, 255);     // draw lego eyes symbol
         }
         matrix.show();
       
@@ -686,7 +692,7 @@ void loop() {
       matrix.clear();
 
         for (int i = 0; i < sizeof(standard) / sizeof(standard[0]); i++) {  // For each pixel...
-          matrix.setPixelColor(standard[i], 0, 255, 0);     // draw electric eyes symbol
+          matrix.setPixelColor(standard[i], 0, 0, 255);     // draw electric eyes symbol
         }
         matrix.show();
         break;
