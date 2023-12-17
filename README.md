@@ -28,3 +28,5 @@ Journal Entry: We came up with a new personality for our robot which was along t
 Journal Entry 12th Dec: Worked on the base movement code to reduce the speed and make the turns smoother so the robot is more stable and makes less sound when [moving around](https://drive.google.com/file/d/1DmAxiMu7VCrjB3v2-T4qKomCC4qvR7Ml/view?usp=sharing). 
 
 Essay 2: [Ex-Machina](https://docs.google.com/document/d/1hXgnWtjlWgqCAgRy3LBrdNOwtadY2wm7HgIFbhHAXmk/edit).
+
+Journal Entry: [Snippet Final Performance](https://drive.google.com/drive/u/0/my-drive).
