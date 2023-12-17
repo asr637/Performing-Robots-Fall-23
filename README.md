@@ -30,3 +30,5 @@ Journal Entry 12th Dec: Worked on the base movement code to reduce the speed and
 Essay 2: [Ex-Machina](https://docs.google.com/document/d/1hXgnWtjlWgqCAgRy3LBrdNOwtadY2wm7HgIFbhHAXmk/edit).
 
 Journal Entry: [Snippet Final Performance](https://drive.google.com/drive/u/0/my-drive).
+
+Essay 1: [Sun Yuan and Peng Yu](https://docs.google.com/document/d/1nDYmqYfSPY1mtcqWhL10_fWIzA6C1ZThA5NdsC4-0eg/edit).
